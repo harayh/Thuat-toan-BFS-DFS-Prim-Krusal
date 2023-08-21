@@ -1,0 +1,5 @@
+﻿  Krusal.cpp
+E:\33_truong_thuattoan\33_truong_thuattoan\Krusal.cpp(26,22): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1258)
+E:\33_truong_thuattoan\33_truong_thuattoan\Krusal.cpp(26,22): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1258)
+E:\33_truong_thuattoan\33_truong_thuattoan\Krusal.cpp(26,22): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1258)
+  33_thuchanh_truong_BFS.vcxproj -> D:\Downloads\x64\Debug\33_thuchanh_truong_BFS.exe
